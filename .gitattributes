@@ -1,0 +1,9 @@
+dist/* linguist-vendored
+Cargo.lock linguist-generated
+public/* linguist-vendored
+public/index.html linguist-vendored
+*.go linguist-detectable
+* text=auto
+
+*.ico binary
+*.json linguist-detectable=false
